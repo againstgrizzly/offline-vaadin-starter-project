@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Mar 04 17:27:46 EST 2018
+validation-api-1.0.0.GA-sources.jar>central=
+validation-api-1.0.0.GA.jar>central=
+validation-api-1.0.0.GA.pom>central=
